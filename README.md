@@ -1,6 +1,6 @@
 # Public validator registry
 
-A validator can choose to display its information to the public by creating a public `.json` file and registering its URL in the Arthera validator info contract deployed at `0xfc00face00000000000000000000000000000001`
+A validator can choose to display its information to the public by creating a public `.json` file and registering its URL in the Arthera validator info contract deployed at `0x000000000000000000000000000000000000Aa05`
 
 ## How to publish your validator info
 
