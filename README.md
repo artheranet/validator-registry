@@ -25,7 +25,7 @@ Once you have the file, create a Pull Request to this repository and commit your
 
 ### Remix usage
 
-- Get the Raw URL for the uploaded file (e.g. `https://github.com/artheranet/validator-registry/raw/main/genesis-validator.json`)
+- Get the Raw URL for the uploaded file (e.g. `https://raw.githubusercontent.com/artheranet/validator-registry/main/genesis-validator.json`)
 - Fire up [Remix](https://remix.ethereum.org/)
 - Copy the [ABI](https://github.com/bertux/arthera-abi/blob/main/abi/ValidatorInfo.json) in a new file you have to name ValidatorInfo.abi
 - In the left panel click on the Ethereum logo to reach `Deploy & run transactions`
